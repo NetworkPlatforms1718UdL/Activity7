@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Activity7</string>
+    <string name="write_default_greeting_message_to_realtime_db">Write default greeting message to realtime DB</string>
+    <string name="register">Register</string>
+    <string name="log_in">Log In</string>
+    <string name="log_out">Log Out</string>
+    <string name="email">Email:</string>
+    <string name="user_domain_com">user@domain.com</string>
+    <string name="password">Password:</string>
+    <string name="passwordHint">**********</string>
 </resources>
